@@ -1,0 +1,19 @@
+{
+  "name": "mysql-proto01",
+  "version": "1.0.0",
+  "description": "Node and MySQL - Prototype 01",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TizVic/node-mysql-proto01.git"
+  },
+  "author": "TizVic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TizVic/node-mysql-proto01/issues"
+  },
+  "homepage": "https://github.com/TizVic/node-mysql-proto01#readme"
+}
